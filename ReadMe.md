@@ -1,4 +1,3 @@
-# 💫 About Me:
 👋 Hello, I'm Sufian Selim<br><br>I'm an experienced Android App Developer with over 3 years of expertise in building custom Android applications. My development journey is driven by a passion for crafting efficient, user-friendly, and scalable mobile solutions.
 
 
